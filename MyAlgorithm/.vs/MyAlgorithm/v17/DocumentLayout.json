@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Project\\MyAlgorithm\\MyAlgorithm\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2305EC83-4667-4539-8EC3-48825DDFA30D}|ArrayTest\\ArrayTest.vcxproj|D:\\Project\\MyAlgorithm\\MyAlgorithm\\ArrayTest\\ArrayTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2305EC83-4667-4539-8EC3-48825DDFA30D}|ArrayTest\\ArrayTest.vcxproj|solutionrelative:ArrayTest\\ArrayTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{807D0E39-DA5E-436B-9EB6-A782849AE2E8}|HelloWorld\\HelloWorld.vcxproj|D:\\Project\\MyAlgorithm\\MyAlgorithm\\HelloWorld\\HelloWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{807D0E39-DA5E-436B-9EB6-A782849AE2E8}|HelloWorld\\HelloWorld.vcxproj|solutionrelative:HelloWorld\\HelloWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ArrayTest.cpp",
+              "DocumentMoniker": "D:\\Project\\MyAlgorithm\\MyAlgorithm\\ArrayTest\\ArrayTest.cpp",
+              "RelativeDocumentMoniker": "ArrayTest\\ArrayTest.cpp",
+              "ToolTip": "D:\\Project\\MyAlgorithm\\MyAlgorithm\\ArrayTest\\ArrayTest.cpp",
+              "RelativeToolTip": "ArrayTest\\ArrayTest.cpp",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-06T03:58:01.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "HelloWorld.cpp",
               "DocumentMoniker": "D:\\Project\\MyAlgorithm\\MyAlgorithm\\HelloWorld\\HelloWorld.cpp",
               "RelativeDocumentMoniker": "HelloWorld\\HelloWorld.cpp",
               "ToolTip": "D:\\Project\\MyAlgorithm\\MyAlgorithm\\HelloWorld\\HelloWorld.cpp",
               "RelativeToolTip": "HelloWorld\\HelloWorld.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-06T03:13:20.588Z",
               "EditorCaption": ""
