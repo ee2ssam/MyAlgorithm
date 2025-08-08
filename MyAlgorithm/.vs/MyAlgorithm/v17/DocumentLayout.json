@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Project\\MyAlgorithm\\MyAlgorithm\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5F010F96-2633-49B0-9390-EEB9F13843AE}|StackTest\\StackTest.vcxproj|D:\\Project\\MyAlgorithm\\MyAlgorithm\\StackTest\\StackTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5F010F96-2633-49B0-9390-EEB9F13843AE}|StackTest\\StackTest.vcxproj|solutionrelative:StackTest\\StackTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{04651295-A059-488C-ADE9-86A5DB85ABA9}|ListTest\\ListTest.vcxproj|D:\\Project\\MyAlgorithm\\MyAlgorithm\\ListTest\\ListTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{04651295-A059-488C-ADE9-86A5DB85ABA9}|ListTest\\ListTest.vcxproj|solutionrelative:ListTest\\ListTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -27,19 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "StackTest.cpp",
+              "DocumentMoniker": "D:\\Project\\MyAlgorithm\\MyAlgorithm\\StackTest\\StackTest.cpp",
+              "RelativeDocumentMoniker": "StackTest\\StackTest.cpp",
+              "ToolTip": "D:\\Project\\MyAlgorithm\\MyAlgorithm\\StackTest\\StackTest.cpp",
+              "RelativeToolTip": "StackTest\\StackTest.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-08T03:48:32.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ListTest.cpp",
               "DocumentMoniker": "D:\\Project\\MyAlgorithm\\MyAlgorithm\\ListTest\\ListTest.cpp",
               "RelativeDocumentMoniker": "ListTest\\ListTest.cpp",
               "ToolTip": "D:\\Project\\MyAlgorithm\\MyAlgorithm\\ListTest\\ListTest.cpp",
               "RelativeToolTip": "ListTest\\ListTest.cpp",
-              "ViewState": "AgIAADUAAAAAAAAAAAAcwDwAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwBkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-07T03:47:06.267Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ArrayTest.cpp",
               "DocumentMoniker": "D:\\Project\\MyAlgorithm\\MyAlgorithm\\ArrayTest\\ArrayTest.cpp",
               "RelativeDocumentMoniker": "ArrayTest\\ArrayTest.cpp",
@@ -47,12 +64,11 @@
               "RelativeToolTip": "ArrayTest\\ArrayTest.cpp",
               "ViewState": "AgIAAAUAAAAAAAAAAAAcwBoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-06T03:58:01.507Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-06T03:58:01.507Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "HelloWorld.cpp",
               "DocumentMoniker": "D:\\Project\\MyAlgorithm\\MyAlgorithm\\HelloWorld\\HelloWorld.cpp",
               "RelativeDocumentMoniker": "HelloWorld\\HelloWorld.cpp",
@@ -60,8 +76,7 @@
               "RelativeToolTip": "HelloWorld\\HelloWorld.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-06T03:13:20.588Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-06T03:13:20.588Z"
             }
           ]
         }
