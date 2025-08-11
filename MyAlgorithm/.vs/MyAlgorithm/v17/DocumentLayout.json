@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\Project\\MyAlgorithm\\MyAlgorithm\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CF427EA2-7ECF-45AC-A6EB-19605048DA74}|RecursiveTest\\RecursiveTest.vcxproj|D:\\Project\\MyAlgorithm\\MyAlgorithm\\RecursiveTest\\RecursiveTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF427EA2-7ECF-45AC-A6EB-19605048DA74}|RecursiveTest\\RecursiveTest.vcxproj|solutionrelative:RecursiveTest\\RecursiveTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100BF133-7749-4AF4-8B12-56464A9301F9}|QueueTest\\QueueTest.vcxproj|D:\\Project\\MyAlgorithm\\MyAlgorithm\\QueueTest\\QueueTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{100BF133-7749-4AF4-8B12-56464A9301F9}|QueueTest\\QueueTest.vcxproj|solutionrelative:QueueTest\\QueueTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5F010F96-2633-49B0-9390-EEB9F13843AE}|StackTest\\StackTest.vcxproj|D:\\Project\\MyAlgorithm\\MyAlgorithm\\StackTest\\StackTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5F010F96-2633-49B0-9390-EEB9F13843AE}|StackTest\\StackTest.vcxproj|solutionrelative:StackTest\\StackTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -31,19 +39,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "StackTest.cpp",
-              "DocumentMoniker": "D:\\Project\\MyAlgorithm\\MyAlgorithm\\StackTest\\StackTest.cpp",
-              "RelativeDocumentMoniker": "StackTest\\StackTest.cpp",
-              "ToolTip": "D:\\Project\\MyAlgorithm\\MyAlgorithm\\StackTest\\StackTest.cpp",
-              "RelativeToolTip": "StackTest\\StackTest.cpp",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAADEAAAACAAAAAAAAAA==",
+              "Title": "RecursiveTest.cpp",
+              "DocumentMoniker": "D:\\Project\\MyAlgorithm\\MyAlgorithm\\RecursiveTest\\RecursiveTest.cpp",
+              "RelativeDocumentMoniker": "RecursiveTest\\RecursiveTest.cpp",
+              "ToolTip": "D:\\Project\\MyAlgorithm\\MyAlgorithm\\RecursiveTest\\RecursiveTest.cpp",
+              "RelativeToolTip": "RecursiveTest\\RecursiveTest.cpp",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-08T03:48:32.87Z",
+              "WhenOpened": "2025-08-11T03:42:42.223Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "QueueTest.cpp",
+              "DocumentMoniker": "D:\\Project\\MyAlgorithm\\MyAlgorithm\\QueueTest\\QueueTest.cpp",
+              "RelativeDocumentMoniker": "QueueTest\\QueueTest.cpp",
+              "ToolTip": "D:\\Project\\MyAlgorithm\\MyAlgorithm\\QueueTest\\QueueTest.cpp",
+              "RelativeToolTip": "QueueTest\\QueueTest.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-11T01:56:27.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StackTest.cpp",
+              "DocumentMoniker": "D:\\Project\\MyAlgorithm\\MyAlgorithm\\StackTest\\StackTest.cpp",
+              "RelativeDocumentMoniker": "StackTest\\StackTest.cpp",
+              "ToolTip": "D:\\Project\\MyAlgorithm\\MyAlgorithm\\StackTest\\StackTest.cpp",
+              "RelativeToolTip": "StackTest\\StackTest.cpp",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwB4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-08T03:48:32.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ListTest.cpp",
               "DocumentMoniker": "D:\\Project\\MyAlgorithm\\MyAlgorithm\\ListTest\\ListTest.cpp",
               "RelativeDocumentMoniker": "ListTest\\ListTest.cpp",
@@ -51,12 +84,11 @@
               "RelativeToolTip": "ListTest\\ListTest.cpp",
               "ViewState": "AgIAABEAAAAAAAAAAAAcwBkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-07T03:47:06.267Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-07T03:47:06.267Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ArrayTest.cpp",
               "DocumentMoniker": "D:\\Project\\MyAlgorithm\\MyAlgorithm\\ArrayTest\\ArrayTest.cpp",
               "RelativeDocumentMoniker": "ArrayTest\\ArrayTest.cpp",
@@ -68,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "HelloWorld.cpp",
               "DocumentMoniker": "D:\\Project\\MyAlgorithm\\MyAlgorithm\\HelloWorld\\HelloWorld.cpp",
               "RelativeDocumentMoniker": "HelloWorld\\HelloWorld.cpp",
